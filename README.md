@@ -1,2 +1,2 @@
 # demo_stat
-a statistics of community demograph
+a statistics of community demography
